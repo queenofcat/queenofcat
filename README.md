@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @queenofcat
-- 👀 I’m interested in frontend dev
-- 🌱 I’m currently learning RN with mobile app and backend behaviour
-- 💞️ I’m looking to improve my skills, hopin' can works with many tech savies ;)
-- 📫 foxsfames@gmail.com - my email if you don't know hihi
+- 👋 Hi, I’m sha
+- 🌱 Currently learning ReactNative and Laravel 
+- 📫 foxsfames@gmail.com 
 
 <!---
 queenofcat/queenofcat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
